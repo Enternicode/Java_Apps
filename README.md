@@ -1,2 +1,2 @@
-# Java_Apps
+# Java_simple_projects
 Java apps
